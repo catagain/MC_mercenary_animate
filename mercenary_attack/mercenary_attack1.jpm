@@ -1,5 +1,5 @@
 {
-	"texture": "mercenaryatkI2",
+	"texture": "textures/entity/mercenaryatkI",
 	"textureSize": [512, 512],
 	"credit": "Made with Blockbench",
 	"submodels": [
